@@ -92,7 +92,7 @@ done
 
 #### From Windows
 
-* With [Rubeus](https://github.com/Zer1t0/Rubeus) version with brute module:
+* With the [Rubeus](https://github.com/GhostPack/Rubeus) brute module:
 
 ```bash
 # with a list of users
